@@ -1,2 +1,3 @@
 "Hello" -Hunter
 "owo" -Conor
+"konnichiwa" -Jasmine
